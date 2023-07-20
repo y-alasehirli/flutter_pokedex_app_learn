@@ -1,4 +1,4 @@
-# bolum26_flutter_pokedex_app
+# flutter_pokedex_app
 
 A new Flutter project.
 
